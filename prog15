@@ -1,0 +1,12 @@
+int main() 
+{
+    int num;
+    scanf("%d",&num);
+    
+    if (num % 2 == 0)
+        printf("EVEN\n");
+    else
+        printf("ODD\n");
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    return 0;
+}
