@@ -1,0 +1,13 @@
+int main() 
+{
+    int end;
+    scanf("%d ", &end);
+    int i=1;
+    while(i<=end)
+    {
+        printf("%d ", i);
+        i++;
+    }
+    /* Enter your code here. Read input from STDIN. Print output to STDOUT */    
+    return 0;
+}
